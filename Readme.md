@@ -21,6 +21,7 @@ Pregunta
 y cuando abrimos el pycharm sin ningun proyecto ya nos sale una opcion de clone repository conjcretamente aqui*
 
 ![primero.png](primero.png)
+
 Para cambiar el remoto debemos ir a git y hasta el apartado de manage remote y ahi justo cambiarlo por el nuestro
 
 ![tercero.png](tercero.png)

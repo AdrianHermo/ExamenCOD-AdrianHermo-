@@ -45,3 +45,9 @@ Y nos saldria algo tal que asi
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
+Hacemos otra vez un cambio en el programa main como en el ejercicio anterior
+![sexto.png](sexto.png)
+Y a continuacion vamos al terminal en main y debemos colocar los siguientes comando(git pull --rebase)
+![septimo.png](septimo.png)
+Y nos saldra nuestra modificacion hecha en el pycharm
+![ultimaç.png](ultima%C3%A7.png)

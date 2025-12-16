@@ -17,6 +17,12 @@ Adrian Hermo Abalde
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
 
+- *-Para empezar debemos clonar el repositorio copiando la URL
+y cuando abrimos el pycharm sin ningun proyecto ya nos sale una opcion de clone repository conjcretamente aqui*
+![primero.png](primero.png)
+Para cambiar el remoto debemos ir a git y hasta el apartado de manage remote y ahi justo cambiarlo por el nuestro
+![tercero.png](tercero.png)
+
 ### Apartado 2
 
 - Realiza una modificación en el código en la web de tu repositorio en GitHub

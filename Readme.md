@@ -37,6 +37,7 @@ Pregunta
 
 Para este paso simplemente modificamos el main desde el github y ponemos un comenatario por 
 ejemplo en mi caso puse eso
+
 ![cuarto0.png](cuarto0.png)
 
 Y luego para que salga en nuestro pycharm en main.py debemos irnos al terminal y hacer los siguientes comandos

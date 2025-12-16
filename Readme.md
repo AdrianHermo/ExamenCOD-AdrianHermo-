@@ -32,7 +32,7 @@ Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 Para este paso simplemente modificamos el main desde el github y ponemos un comenatario por ejemplo en mi caso puse eso
 ![cuarto0.png](cuarto0.png)
-Y luego para qu salga en nuestro pycharm en main.py debemos irnos al terminal y hacer los siguientes comandos
+Y luego para que salga en nuestro pycharm en main.py debemos irnos al terminal y hacer los siguientes comandos
   (git fetch y despues git merge origin/main)
 - ![cuarto.png](cuarto.png)
 Y nos saldria algo tal que asi 

@@ -41,8 +41,8 @@ Para este paso simplemente modificamos el main desde el github y ponemos un come
 Y luego para que salga en nuestro pycharm en main.py debemos irnos al terminal y hacer los siguientes comandos
 (git fetch y despues git merge origin/main)
 
-- ![cuarto.png](cuarto.png)
-- 
+![cuarto.png](cuarto.png)
+
 Y nos saldria algo tal que asi 
 
 ![quinto.png](quinto.png)
